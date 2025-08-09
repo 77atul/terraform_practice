@@ -1,7 +1,0 @@
-users :
-  - username: levi
-    role : AmazonEC2FullAccess
-  - username: saitama
-    role : AmazonS3FullAccess
-  - username: naruto
-    role: AmazonEC2FullAccess
